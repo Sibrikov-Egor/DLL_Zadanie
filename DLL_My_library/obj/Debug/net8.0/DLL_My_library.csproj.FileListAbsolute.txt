@@ -1,0 +1,11 @@
+D:\Sibrikov\DLL_My_library\DLL_My_library\bin\Debug\net8.0\DLL_My_library.deps.json
+D:\Sibrikov\DLL_My_library\DLL_My_library\bin\Debug\net8.0\DLL_My_library.dll
+D:\Sibrikov\DLL_My_library\DLL_My_library\bin\Debug\net8.0\DLL_My_library.pdb
+D:\Sibrikov\DLL_My_library\DLL_My_library\obj\Debug\net8.0\DLL_My_library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sibrikov\DLL_My_library\DLL_My_library\obj\Debug\net8.0\DLL_My_library.AssemblyInfoInputs.cache
+D:\Sibrikov\DLL_My_library\DLL_My_library\obj\Debug\net8.0\DLL_My_library.AssemblyInfo.cs
+D:\Sibrikov\DLL_My_library\DLL_My_library\obj\Debug\net8.0\DLL_My_library.csproj.CoreCompileInputs.cache
+D:\Sibrikov\DLL_My_library\DLL_My_library\obj\Debug\net8.0\DLL_My_library.dll
+D:\Sibrikov\DLL_My_library\DLL_My_library\obj\Debug\net8.0\refint\DLL_My_library.dll
+D:\Sibrikov\DLL_My_library\DLL_My_library\obj\Debug\net8.0\DLL_My_library.pdb
+D:\Sibrikov\DLL_My_library\DLL_My_library\obj\Debug\net8.0\ref\DLL_My_library.dll
